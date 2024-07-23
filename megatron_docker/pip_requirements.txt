@@ -1,0 +1,10 @@
+deepspeed
+tokenizers
+datasets
+wandb
+loguru
+nvitop
+lion-pytorch
+bitsandbytes
+evaluate
+pybind11
